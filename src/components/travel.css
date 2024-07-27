@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+}
+
+body{
+  box-sizing: border-box;
+  background-color: goldenrod;
+}
+
+.nav{
+  border: 90px;
+  background-color: brown;
+  padding: 20px;
+  display: flex;
+}
+
+.globe{
+  padding-left: 620px;
+}
+
+.nav-text{
+  padding-left: 8px;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.pic{
+  padding-top: 62px;
+  padding-left: 60px;
+  width: 200px;
+}
+
+.location{
+  padding-left: 33px;
+  padding-right: 400px;
+}
+
+.mount{
+  padding-top: 5px;
+}
+
+.date{
+  padding-top: 10px;
+}
+
+.text{
+  padding-top: 10px;
+}
